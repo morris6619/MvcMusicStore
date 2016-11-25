@@ -1,0 +1,65 @@
+C:\Users\Jon\Documents\Jon-Share\MvcMusicStore-v3.0\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.dll
+C:\Users\Jon\Documents\Jon-Share\MvcMusicStore-v3.0\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.pdb
+C:\Users\Jon\Documents\Jon-Share\MvcMusicStore-v3.0\MvcMusicStore\MvcMusicStore\bin\EntityFramework.dll
+C:\Users\Jon\Documents\Jon-Share\MvcMusicStore-v3.0\MvcMusicStore\MvcMusicStore\bin\EntityFramework.xml
+C:\Users\Jon\Documents\Jon-Share\MvcMusicStore-v3.0\MvcMusicStore\MvcMusicStore\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jon\Documents\Jon-Share\MvcMusicStore-v3.0\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+C:\Users\Jon\Documents\Jon-Share\MvcMusicStore-v3.0\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
+C:\Users\Jon\Documents\Jon-Share\MvcMusicStore-v3.0\_Part 2 Complete\MvcMusicStore\bin\MvcMusicStore.dll
+C:\Users\Jon\Documents\Jon-Share\MvcMusicStore-v3.0\_Part 2 Complete\MvcMusicStore\bin\MvcMusicStore.pdb
+C:\Users\Jon\Documents\Jon-Share\MvcMusicStore-v3.0\_Part 2 Complete\MvcMusicStore\bin\EntityFramework.dll
+C:\Users\Jon\Documents\Jon-Share\MvcMusicStore-v3.0\_Part 2 Complete\MvcMusicStore\bin\EntityFramework.xml
+C:\Users\Jon\Documents\Jon-Share\MvcMusicStore-v3.0\_Part 2 Complete\MvcMusicStore\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jon\Documents\Jon-Share\MvcMusicStore-v3.0\_Part 2 Complete\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+C:\Users\Jon\Documents\Jon-Share\MvcMusicStore-v3.0\_Part 2 Complete\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
+C:\Users\Jon\Desktop\Jon-Share\MvcMusicStore-v3.0\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.dll
+C:\Users\Jon\Desktop\Jon-Share\MvcMusicStore-v3.0\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.pdb
+C:\Users\Jon\Desktop\Jon-Share\MvcMusicStore-v3.0\MvcMusicStore\MvcMusicStore\bin\EntityFramework.dll
+C:\Users\Jon\Desktop\Jon-Share\MvcMusicStore-v3.0\MvcMusicStore\MvcMusicStore\bin\EntityFramework.xml
+C:\Users\Jon\Desktop\Jon-Share\MvcMusicStore-v3.0\MvcMusicStore\MvcMusicStore\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jon\Desktop\Jon-Share\MvcMusicStore-v3.0\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+C:\Users\Jon\Desktop\Jon-Share\MvcMusicStore-v3.0\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
+C:\Kendo\MvcMusicStore-v3.0 (1)\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+C:\Kendo\MvcMusicStore-v3.0 (1)\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
+C:\Kendo\MvcMusicStore-v3.0 (1)\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\MvcMusicStore.dll.config
+C:\Kendo\MvcMusicStore-v3.0 (1)\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\MvcMusicStore.dll
+C:\Kendo\MvcMusicStore-v3.0 (1)\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\MvcMusicStore.pdb
+C:\Kendo\MvcMusicStore-v3.0 (1)\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\EntityFramework.dll
+C:\Kendo\MvcMusicStore-v3.0 (1)\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\EntityFramework.SqlServer.dll
+C:\Kendo\MvcMusicStore-v3.0 (1)\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Kendo\MvcMusicStore-v3.0 (1)\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\System.Web.Helpers.dll
+C:\Kendo\MvcMusicStore-v3.0 (1)\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\System.Web.Mvc.dll
+C:\Kendo\MvcMusicStore-v3.0 (1)\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\System.Web.Razor.dll
+C:\Kendo\MvcMusicStore-v3.0 (1)\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\System.Web.WebPages.Deployment.dll
+C:\Kendo\MvcMusicStore-v3.0 (1)\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\System.Web.WebPages.dll
+C:\Kendo\MvcMusicStore-v3.0 (1)\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\System.Web.WebPages.Razor.dll
+C:\Kendo\MvcMusicStore-v3.0 (1)\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\EntityFramework.xml
+C:\Kendo\MvcMusicStore-v3.0 (1)\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\EntityFramework.SqlServer.xml
+C:\Kendo\MvcMusicStore-v3.0 (1)\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\System.Web.Helpers.xml
+C:\Kendo\MvcMusicStore-v3.0 (1)\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\System.Web.Mvc.xml
+C:\Kendo\MvcMusicStore-v3.0 (1)\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\System.Web.Razor.xml
+C:\Kendo\MvcMusicStore-v3.0 (1)\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\System.Web.WebPages.xml
+C:\Kendo\MvcMusicStore-v3.0 (1)\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\System.Web.WebPages.Deployment.xml
+C:\Kendo\MvcMusicStore-v3.0 (1)\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\System.Web.WebPages.Razor.xml
+C:\Kendo\MvcMusicStore-v3.0 (1)\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\x86\sqlcese40.dll
+C:\Kendo\MvcMusicStore-v3.0 (1)\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\x86\sqlceqp40.dll
+C:\Kendo\MvcMusicStore-v3.0 (1)\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\x86\sqlceme40.dll
+C:\Kendo\MvcMusicStore-v3.0 (1)\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\x86\sqlceer40EN.dll
+C:\Kendo\MvcMusicStore-v3.0 (1)\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\x86\sqlcecompact40.dll
+C:\Kendo\MvcMusicStore-v3.0 (1)\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\x86\sqlceca40.dll
+C:\Kendo\MvcMusicStore-v3.0 (1)\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\x86\Microsoft.VC90.CRT\README_ENU.txt
+C:\Kendo\MvcMusicStore-v3.0 (1)\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\x86\Microsoft.VC90.CRT\msvcr90.dll
+C:\Kendo\MvcMusicStore-v3.0 (1)\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\amd64\sqlcese40.dll
+C:\Kendo\MvcMusicStore-v3.0 (1)\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\amd64\sqlceqp40.dll
+C:\Kendo\MvcMusicStore-v3.0 (1)\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\amd64\sqlceme40.dll
+C:\Kendo\MvcMusicStore-v3.0 (1)\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\amd64\sqlceer40EN.dll
+C:\Kendo\MvcMusicStore-v3.0 (1)\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\amd64\sqlcecompact40.dll
+C:\Kendo\MvcMusicStore-v3.0 (1)\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\amd64\sqlceca40.dll
+C:\Kendo\MvcMusicStore-v3.0 (1)\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\amd64\Microsoft.VC90.CRT\README_ENU.txt
+C:\Kendo\MvcMusicStore-v3.0 (1)\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\amd64\Microsoft.VC90.CRT\msvcr90.dll
+C:\Kendo\MvcMusicStore-v3.0 (1)\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\x86\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+C:\Kendo\MvcMusicStore-v3.0 (1)\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\amd64\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+C:\Kendo\MvcMusicStore-v3.0 (1)\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\EntityFramework.SqlServerCompact.dll
+C:\Kendo\MvcMusicStore-v3.0 (1)\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\System.Data.SqlServerCe.dll
+C:\Kendo\MvcMusicStore-v3.0 (1)\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\EntityFramework.SqlServerCompact.xml
+C:\Kendo\MvcMusicStore-v3.0 (1)\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\obj\Debug\MvcMusicStore.csprojResolveAssemblyReference.cache
